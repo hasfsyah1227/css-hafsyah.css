@@ -1,0 +1,21 @@
+p {
+
+
+    transform
+    :rotate(180deg);
+
+}
+
+p::
+first-letter
+{
+
+
+    color
+    : red;
+
+
+    font-weight
+    : bold;
+
+}
